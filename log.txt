@@ -1,0 +1,7 @@
+8b9b42a813db3a4c542cf6fabd5eaf4bcbaa22bb a
+8a5d6ecead51d50d69e0dd07885d19c796e0f48e tiger pic added
+323d01d46f477281993de4a9b11fa1b15d82cd41 added nav elements and basic tiger info from wikipedia. Also has a link to full wiki page and a beautiful pic of tiger
+98990dc5ffd4a758c4db0b5da9e06846a763eac0 added habitat page w nav bar, video of tigers, and habitat info from wiki
+63274eddf5c9b2ca28e1cb529458b6ad9b92fc4a added list of characteristics and table with classifications
+ee618630e1bb802ffc31e1c5ed566c975215e9fd inited HTML layout for characteristics and habitat pages
+dbaab0070b3888dcdc0d29a27f4fa396ae1437d6 create all three files and basic layout for index page with links to other pages
