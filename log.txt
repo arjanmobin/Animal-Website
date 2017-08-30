@@ -1,3 +1,11 @@
+b59811ce8c4ff03cfaa5c398f721769fbaf8565b Merge branch 'master' of https://github.com/arjanmobin/Animal-Website
+fa6532cc8a9c9000166f08dd03d295423c555458 add footer to other files. Add new tiger pic. Format code in html pages
+d01ba3ea9db1df331def33eac89acf597dbc0b6f add footer in characteristics
+17b1a5c8e9e5b8b5b65ec09e22a36be3f3a732c6 Add sections and articles to index
+cded7b00820d3b6a4096824d41d354029121ea24 done
+4989b15066457cf729fb707b766a8944f897aaac done
+cafb94f407b8e7af3e21d2a0ed96ce66944bd0f3 Create README.md
+cc18e58dd6df3bc7a080db6d37af10115ebf0ed3 updated log file
 8b9b42a813db3a4c542cf6fabd5eaf4bcbaa22bb a
 8a5d6ecead51d50d69e0dd07885d19c796e0f48e tiger pic added
 323d01d46f477281993de4a9b11fa1b15d82cd41 added nav elements and basic tiger info from wikipedia. Also has a link to full wiki page and a beautiful pic of tiger
