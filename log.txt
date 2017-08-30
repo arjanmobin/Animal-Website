@@ -1,3 +1,4 @@
+6cb657fc12aa6e4a83f41eaf9461ec356da5bfd1 add main section which holds main content on each page
 24e92115782af48c1c5bde83bbf108eab045c639 add unordered list to characteristics
 b59811ce8c4ff03cfaa5c398f721769fbaf8565b Merge branch 'master' of https://github.com/arjanmobin/Animal-Website
 fa6532cc8a9c9000166f08dd03d295423c555458 add footer to other files. Add new tiger pic. Format code in html pages
@@ -13,4 +14,4 @@ cc18e58dd6df3bc7a080db6d37af10115ebf0ed3 updated log file
 98990dc5ffd4a758c4db0b5da9e06846a763eac0 added habitat page w nav bar, video of tigers, and habitat info from wiki
 63274eddf5c9b2ca28e1cb529458b6ad9b92fc4a added list of characteristics and table with classifications
 ee618630e1bb802ffc31e1c5ed566c975215e9fd inited HTML layout for characteristics and habitat pages
-dbaab0070b3888dcdc0d29a27f4fa396ae1437d6 create all three files and basic layout for index page with links to other pages
+dbaab0070b3888dcdc0d29a27f4fa396ae1437d6 create all three files and basic layout:
