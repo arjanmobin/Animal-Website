@@ -1,3 +1,4 @@
+24e92115782af48c1c5bde83bbf108eab045c639 add unordered list to characteristics
 b59811ce8c4ff03cfaa5c398f721769fbaf8565b Merge branch 'master' of https://github.com/arjanmobin/Animal-Website
 fa6532cc8a9c9000166f08dd03d295423c555458 add footer to other files. Add new tiger pic. Format code in html pages
 d01ba3ea9db1df331def33eac89acf597dbc0b6f add footer in characteristics
